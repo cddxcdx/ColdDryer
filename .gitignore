@@ -16,3 +16,5 @@ JLinkLog.txt
 */*.sct  
 */*.__i  
 *.htm  
+*/*.map
+*/*.lst
