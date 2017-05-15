@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'ColdDryer' 
- * Target:  'Target 1' 
+ * Target:  'LPC122x' 
  */
 
 #ifndef RTE_COMPONENTS_H
