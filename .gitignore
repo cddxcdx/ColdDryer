@@ -4,7 +4,7 @@
    *.plg  
    *.bak  
    *.dep  
-   *.uvgui.*  
+   *.uvguix.*  
    JLinkLog.txt  
    *.o  
    *.d  
