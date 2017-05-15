@@ -1,0 +1,33 @@
+Dependencies for Project 'ColdDryer', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x59192EA7)(-c --cpu Cortex-M0 -D__RTX -g -O0 --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board-D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54199D7C)
+F (C:\Keil_v5\ARM\PACK\Keil\MCB1200_BSP\1.0.0\Common\ADC_MCB1200.c)(0x53DB38B6)(-c --cpu Cortex-M0 -D__RTX -g -O0 --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board-D_RTE_-o .\objects\adc_mcb1200.o --omf_browse .\objects\adc_mcb1200.crf --depend .\objects\adc_mcb1200.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h)(0x53FC31DA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54199D7A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board\Board_ADC.h)(0x53BB2252)
+F (C:\Keil_v5\ARM\PACK\Keil\MCB1200_BSP\1.0.0\Common\LED_MCB1200.c)(0x53DB38B6)(-c --cpu Cortex-M0 -D__RTX -g -O0 --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board-D_RTE_-o .\objects\led_mcb1200.o --omf_browse .\objects\led_mcb1200.crf --depend .\objects\led_mcb1200.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h)(0x53FC31DA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54199D7A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board\Board_LED.h)(0x53BB2252)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\LIB\ARM\RTX_CM0.lib)(0x541F9B36)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x54115F32)(-c --cpu Cortex-M0 -D__RTX -g -O0 --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board-D_RTE_-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC\cmsis_os.h)(0x541F9B36)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54199D7A)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x54199D7A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC\RTX_CM_lib.h)(0x541F9B36)
+F (RTE\Device\LPC1225FBD48_301\startup_LPC122x.s)(0x4D5A19B4)(--cpu Cortex-M0 --pd "__RTX SETA 1" -g --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board--pd "_RTE_ SETA 1"--list .\listings\startup_lpc122x.lst --xref -o .\objects\startup_lpc122x.o --depend .\objects\startup_lpc122x.d)
+F (RTE\Device\LPC1225FBD48_301\system_LPC122x.c)(0x4D5A19B4)(-c --cpu Cortex-M0 -D__RTX -g -O0 --apcs=interwork -I C:\Users\Titan_CDD\Desktop\coldDryer\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.1.1\Board-D_RTE_-o .\objects\system_lpc122x.o --omf_browse .\objects\system_lpc122x.crf --depend .\objects\system_lpc122x.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54199D7A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h)(0x53FC31DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FEF2AA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)

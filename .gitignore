@@ -3,16 +3,16 @@
    *.log  
    *.plg  
    *.bak  
-   *.dep  
+   */*.dep  
    *.uvguix.*  
    JLinkLog.txt  
-   *.o  
-   *.d  
-   *.crf  
-   *.tra  
-   *.axf  
-   *.hex  
-   *.lnp  
-   *.sct  
-   *.__i  
+   */*.o  
+   */*.d  
+   */*.crf  
+   */*.tra  
+   */*.axf  
+   */*.hex  
+   */*.lnp  
+   */*.sct  
+   */*.__i  
    *.htm  

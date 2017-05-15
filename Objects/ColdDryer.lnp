@@ -1,0 +1,12 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\adc_mcb1200.o"
+".\objects\led_mcb1200.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS_RTX\LIB\ARM\RTX_CM0.lib"
+".\objects\rtx_conf_cm.o"
+".\objects\startup_lpc122x.o"
+".\objects\system_lpc122x.o"
+--strict --scatter ".\Objects\ColdDryer.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\ColdDryer.map" -o .\Objects\ColdDryer.axf
